@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-catalog-import-and-export-flutter",
+  "capabilityKey": "planned:ecommerce:catalog-import-and-export",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_catalog_import_and_export_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/catalog-import-and-export.md",
+  "presentationPlan": "projects/ecommerce/flutter/catalog-import-and-export.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
